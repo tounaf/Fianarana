@@ -1,10 +1,7 @@
 {
-  "name": "devinbox/kajikajy",
+  "name": "devinbox/fianarana",
   "description": "Package for mathematics calculations",
   "type": "package",
-  "require": {
-    "php": ">=5.4.0"
-  },
   "license": "mit",
   "authors": [
     {
@@ -16,7 +13,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "Devinbox\\Kajikajy\\": "src/"
+      "Devinbox\\Math\\": "src/"
     }
   }
 }
