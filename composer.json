@@ -1,5 +1,5 @@
 {
-  "name": "pulse/calculator",
+  "name": "devinbox/calculator",
   "description": "Package for mathematics calculations",
   "type": "package",
   "require": {
@@ -10,13 +10,13 @@
     {
       "name": "Fetraharinjatovo",
       "email": "fetra.harinjatovo@pulse.mg",
-      "homepage": "http://pulse.mg"
+      "homepage": "http://dev-inbox.com"
     }
   ],
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "Pulse\\Calculator\\": "src/"
+      "Devinbox\\Calculator\\": "src/"
     }
   }
 }
