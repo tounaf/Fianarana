@@ -6,10 +6,9 @@
  * Time: 14:18
  */
 
-namespace Pulse\Calculator;
+namespace Devinbox\Kajikajy;
 
-
-class Calculator
+class Kajikajy
 {
     public function add($a, $b)
     {
