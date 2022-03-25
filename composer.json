@@ -1,5 +1,5 @@
 {
-  "name": "devinbox/calculator",
+  "name": "devinbox/kajikajy",
   "description": "Package for mathematics calculations",
   "type": "package",
   "require": {
@@ -16,7 +16,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "Devinbox\\Calculator\\": "src/"
+      "Devinbox\\Kajikajy\\": "src/"
     }
   }
 }
